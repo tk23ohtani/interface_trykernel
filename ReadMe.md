@@ -1,8 +1,10 @@
 ﻿# Interface 2023年7月号 特集「ゼロから作るOS」配布プログラム
 
+**注意: このリポジトリは[ytoyoyama/interface_trykernel](https://github.com/ytoyoyama/interface_trykernel)のフォークです。**
+
 ## 概要
 
-本リポジトリは、CQ出版(株) Interface 2023年7月号の特集「ゼロから作るOS」の配布プログラムです。  
+本リポジトリは、CQ出版(株) Interface 2023年7月号の特集「ゼロから作るOS」の配布プログラムです。
 特集記事にて記載した自作OS「Try Kernel」のプログラムです。ラズパイPicoにて動作します。プログラムの内容、開発環境や手順については記事をご覧ください。  
 特集の各部、各章で作成した完成プログラムのソースコードを以下のディレクトリに格納しています。ディレクトリ毎に実行プログラムをビルドすることができます。part_5が完成したTry Kernelのプログラムとアプリケーションとなります。  
 
@@ -23,6 +25,8 @@ part_4         第4部　タスクの同期と通信機能を作る
 part_5         第5部　アプリケーションを作る  
 
 ## 関連リンク
+
+**オリジナルリポジトリ**: [ytoyoyama/interface_trykernel](https://github.com/ytoyoyama/interface_trykernel)
 
 Try Kernelの単独のリポジトリは以下です。不具合修正以外のメンテは以下で行います。  
 
